@@ -1,4 +1,4 @@
-Alamano Nextbots have been moved from Workshop to Github due to unforseen circumstances
+Alamano Nextbots have been moved from Workshop to Github due to unforeseen circumstances
 
 Follow these steps in order to install:
 1) Open Steam and navigate to your Library
