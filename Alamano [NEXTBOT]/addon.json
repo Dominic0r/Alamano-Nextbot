@@ -1,0 +1,11 @@
+{
+	"title"		:	"Alamano Nextbot",
+	"type"		:	"npc",
+	"tags"		:	[ "fun", "cartoon" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
